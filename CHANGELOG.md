@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/matteotl/release/compare/release-v1.1.0...release-v1.2.0) (2026-07-17)
+
+
+### Features
+
+* update title ([284a359](https://github.com/matteotl/release/commit/284a35920566f22be1e68b40e8c1bed9e33b8a62))
+* update title ([fb15296](https://github.com/matteotl/release/commit/fb15296a374279fb4f19e75e1ffe50d25c6e25c3))
+
+
+### Bug Fixes
+
+* add release token to trigger tag workflow ([b2b5307](https://github.com/matteotl/release/commit/b2b53074228f0cc600fc16f60b69758778796965))
+
 ## [1.1.0](https://github.com/matteotl/release/compare/release-v1.0.0...release-v1.1.0) (2026-07-17)
 
 
